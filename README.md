@@ -43,8 +43,6 @@ This generates a decompressed text file, restoring the original content.
 
 ## Contributions
 
-This project was designed and implemented as part of a programming assignment, aiming to demonstrate the practical application of Huffman coding in data compression and decompression tasks.
+This project was designed and implemented as part of a programming assignment, aiming to demonstrate the practical application of Huffman coding in data compression and decompression tasks in the course: Algorithm Design.
 
 ---
-
-Adjust the placeholders and add any additional sections as needed to align with your project's specifics.
